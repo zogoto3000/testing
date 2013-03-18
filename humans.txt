@@ -1,0 +1,18 @@
+/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* zurb.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveals
+  Software: Sublime Text 2, Dreamweaver CS6, Photoshop
+  Language: English
+  -----------------------------------
+  Last Updated: 	2013 March 15
+  	    by: 	Josh Johnston
+  -----------------------------------
+
+/* TEAM*/
+  Developer: 		Josh Johnston
+  Webmaster: 		Josh Johnston
+  UI/UX Designer: 	Megan Johnston
